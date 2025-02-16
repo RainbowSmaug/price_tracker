@@ -1,0 +1,8 @@
+# Ignore environment and sensitive config files
+.env
+.envrc
+venv/
+__pycache__/
+*.pyc
+*.sqlite3
+
